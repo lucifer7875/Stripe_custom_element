@@ -6,3 +6,9 @@ npm install stripe –save
 
 # Install this package in React.js
 npm install @stripe/react-stripe-js @stripe/stripe-js
+
+# Frontend run 
+npm start
+
+# Backend run 
+npm run start
